@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PortafolioReactDC/static/css/main.e6e7f20f.css",
+    "main.js": "/PortafolioReactDC/static/js/main.b858f272.js",
+    "static/media/site-bg.jpg": "/PortafolioReactDC/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/coverphoto.png": "/PortafolioReactDC/static/media/coverphoto.adb41894d45fd21c1382.png",
+    "static/media/cvDC.pdf": "/PortafolioReactDC/static/media/cvDC.81c90dcc229be2c2e1a7.pdf",
+    "index.html": "/PortafolioReactDC/index.html",
+    "main.e6e7f20f.css.map": "/PortafolioReactDC/static/css/main.e6e7f20f.css.map",
+    "main.b858f272.js.map": "/PortafolioReactDC/static/js/main.b858f272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6e7f20f.css",
+    "static/js/main.b858f272.js"
+  ]
+}
