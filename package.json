@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http:/Diegofct.github.io/PortafolioReactDC",
+  "homepage": "http://Diegofct.github.io/PortafolioReactDC/build",
   "dependencies": {
     "@react-three/drei": "^9.111.1",
     "@react-three/fiber": "^8.17.5",
