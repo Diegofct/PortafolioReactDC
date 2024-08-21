@@ -32,13 +32,13 @@ const Banner = () => {
               repeat={Infinity} />
             </motion.div>
             <motion.p variants={fadeIn('up', 0.5)} initial="hidden" whileInView={'show'} viewport={{once: false, amount:0.7}} className='mb-8 max-w-lg mx-auto lg:mx-0'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam nobis doloremque corrupti impedit vel porro, nostrum et commodi cum voluptatibus a ipsam tempore magni ab odit ratione officiis harum qui.
+                Hello everyone, welcome to my personal portfolio. I am 27 years old and I live in Bucaramanga, Colombia.
             </motion.p>
             <div className='flex text-[40px] gap-x-6 max-w-max mx-auto lg:mx-0 cursor-pointer'>
-              <a href="" className='cursor-pointer'>
+              <a href="https://github.com/Diegofct" className='cursor-pointer' target='_blank'>
                 <FaGithub />
               </a>
-              <a href="" className='cursor-pointer'>
+              <a href="https://www.linkedin.com/in/diegofct96/" className='cursor-pointer' target='_blank'>
                 <FaLinkedin />
               </a>
               <a href="" className='cursor-pointer'>

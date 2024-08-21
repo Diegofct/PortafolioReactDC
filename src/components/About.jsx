@@ -34,7 +34,7 @@ const About = () => {
               initial="hidden"
               animate="show"
             >
-              Hi, I'm Diego Carreño, a passionate software developer with a strong background in both frontend and backend technologies. My journey in coding began with a curiosity for how things work and has evolved into a deep commitment to creating innovative, efficient, and user-friendly applications. 
+              Hello, I am Diego Carreño, a software developer with knowledge in both frontend and backend development. I have a foundation in creating dynamic web applications using technologies such as React, TailwindCSS, Java, and Spring Boot. As a Systems Development Technologist, graduated from SENA, I continually strive to improve my skills and keep up with the latest industry trends. My experience at Campuslands has pushed the boundaries to consolidate knowledge in the area of ​​web development. I am deeply committed to delivering high-quality, scalable solutions that generate real impact. My problem-solving skills and attention to detail allow me to tackle complex challenges. I am eager to contribute to innovative projects that push the boundaries of what is possible in technology.
             </motion.p>
           </div>
         </div>

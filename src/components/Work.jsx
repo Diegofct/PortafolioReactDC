@@ -4,21 +4,21 @@ import { motion } from 'framer-motion';
 const experiences = [
   {
     year: '2023',
-    company: 'Tech Company',
-    role: 'Software Developer',
-    description: 'Worked on developing and maintaining web applications using React and Java.'
+    company: 'Atento',
+    role: 'Teleoperator agent Technical support',
+    description: `Technical support teleoperator agent at the company Atento; I provided technical support to Spanish clients who had problems with their fixed and mobile telephone lines, internet and TV for Movistar Spain.`
   },
   {
-    year: '2022',
-    company: 'Web Solutions',
-    role: 'Frontend Developer',
-    description: 'Created responsive and interactive UI components with React and TailwindCSS.'
+    year: '2023',
+    company: 'Ingeotel SAS',
+    role: 'FTTH Design Technician',
+    description: `I performed mapping functions for open field fiber optic networks, I worked with the AutoCAD tool for the design of FTTH infrastructure, creating coverage areas`
   },
   {
-    year: '2021',
-    company: 'Startup Inc.',
-    role: 'Junior Developer',
-    description: 'Assisted in building backend services with Java and Spring Boot.'
+    year: '2019-2020',
+    company: 'Avidesa MacPollo',
+    role: 'Intern and Systems Assistant',
+    description: `I started as an intern in the IT systems area, providing technical support, by telephone, to the company's programs and applications, where I managed the database, making queries and, among other things, using SQLserver as a manager; I also managed the SAP tool that was used as a help desk for some applications in the different areas of the company. After completing the internship, I obtained a contract for two more months, performing the position of systems assistant, performing the same functions.`
   }
 ];
 
