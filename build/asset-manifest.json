@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/PortafolioReactDC/build/static/css/main.bfc07f12.css",
-    "main.js": "/PortafolioReactDC/build/static/js/main.987d3f6a.js",
+    "main.css": "/PortafolioReactDC/build/static/css/main.efa0100d.css",
+    "main.js": "/PortafolioReactDC/build/static/js/main.3f4f146c.js",
+    "static/media/HdvDiegoCarreño.pdf": "/PortafolioReactDC/build/static/media/HdvDiegoCarreño.4e7ae31e71b051e16b2d.pdf",
     "static/media/site-bg.jpg": "/PortafolioReactDC/build/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/coverphoto.png": "/PortafolioReactDC/build/static/media/coverphoto.adb41894d45fd21c1382.png",
-    "static/media/cvDC.pdf": "/PortafolioReactDC/build/static/media/cvDC.81c90dcc229be2c2e1a7.pdf",
+    "static/media/programador.png": "/PortafolioReactDC/build/static/media/programador.2e7d740bf4d9e0d1153b.png",
     "index.html": "/PortafolioReactDC/build/index.html",
-    "main.bfc07f12.css.map": "/PortafolioReactDC/build/static/css/main.bfc07f12.css.map",
-    "main.987d3f6a.js.map": "/PortafolioReactDC/build/static/js/main.987d3f6a.js.map"
+    "main.efa0100d.css.map": "/PortafolioReactDC/build/static/css/main.efa0100d.css.map",
+    "main.3f4f146c.js.map": "/PortafolioReactDC/build/static/js/main.3f4f146c.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfc07f12.css",
-    "static/js/main.987d3f6a.js"
+    "static/css/main.efa0100d.css",
+    "static/js/main.3f4f146c.js"
   ]
 }
