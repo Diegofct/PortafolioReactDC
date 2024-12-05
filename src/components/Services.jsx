@@ -1,6 +1,6 @@
 import React from 'react';
 import { 
-  SiHtml5, SiCss3, SiJavascript, SiReact, SiTailwindcss, 
+  SiHtml5, SiCss3, SiJavascript, SiTypescript, SiReact, SiAngular, SiTailwindcss, 
   SiMysql, SiPostgresql, SiSpring, SiPython 
 } from 'react-icons/si';
 import { FaJava } from 'react-icons/fa';
@@ -10,7 +10,9 @@ const Services = () => {
     { Icon: SiHtml5, color: 'text-orange-600', name: 'HTML', description: 'Web Development' },
     { Icon: SiCss3, color: 'text-blue-500', name: 'CSS', description: 'Styling' },
     { Icon: SiJavascript, color: 'text-yellow-500', name: 'JavaScript', description: 'Interactive Web' },
+    { Icon: SiTypescript, color: 'text-blue-600', name: 'TypeScript', description: 'Typed JavaScript' },
     { Icon: SiReact, color: 'text-cyan-500', name: 'React', description: 'UI Development' },
+    { Icon: SiAngular, color: 'text-red-600', name: 'Angular', description: 'Frontend Framework' },
     { Icon: SiTailwindcss, color: 'text-teal-400', name: 'TailwindCSS', description: 'Utility-First Styling' },
     { Icon: SiMysql, color: 'text-blue-700', name: 'MySQL', description: 'Database Management' },
     { Icon: SiPostgresql, color: 'text-blue-400', name: 'PostgreSQL', description: 'Relational Database' },

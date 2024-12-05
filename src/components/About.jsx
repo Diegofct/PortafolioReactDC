@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import Image from '../assets/coverphoto.png';
+import Image from '../assets/programador.png';
 import { fadeIn } from '../variants';
 
 const About = () => {
